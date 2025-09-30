@@ -1,0 +1,266 @@
+PS C:\Users\dezao\dev\faculdade\unifran\Algoritmos_e_Pensamento_Computacional-Turma_003\Expeciencia_pratica_II> .\main.exe
+Bem-vindo ao sistema bancario!
+Para iniciar, escolha uma das opcoes abaixo:
+(1) - Conectar
+(2) - Registrar
+(3) - Sair
+2
+Nome de usuario: Andre
+Senha: 123
+(1) - Conectar
+(2) - Registrar
+(3) - Sair
+2
+Nome de usuario: Pedro
+Senha: 123
+(1) - Conectar
+(2) - Registrar
+(3) - Sair
+2
+Nome de usuario: Carlos
+Senha: 456
+(1) - Conectar
+(2) - Registrar
+(3) - Sair
+1
+Nome de usuario: Andre
+Senha: 123
+Bem-vindo Andre!
+Qual operacao vai realizar hoje?
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+1
+Valor para depositar: 6000
+Deposito de R$6000.00 realizado. Saldo atual: R$6000.00
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+2
+Nome de usuario de destino: Pedro
+Valor para transferir: 250
+Transferencia de R$250.00 para Pedro realizada com sucesso. Saldo atual: R$5750.00
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+2
+Nome de usuario de destino: Carlos
+Valor para transferir: 400
+Transferencia de R$400.00 para Carlos realizada com sucesso. Saldo atual: R$5350.00
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+5
+Desconectando...
+(1) - Conectar
+(2) - Registrar
+(3) - Sair
+1
+Nome de usuario: Pedro
+Senha: 123
+Bem-vindo Pedro!
+Qual operacao vai realizar hoje?
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+4
+
+--- EXTRATO DE TRANSACOES DE Pedro ---
+Saldo Atual: R$250.00
+----------------------------------
+[CREDITO] Transferencia recebida de Andre: +R$250.00
+----------------------------------
+
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+1
+Valor para depositar: 8000
+Deposito de R$8000.00 realizado. Saldo atual: R$8250.00
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+2
+Nome de usuario de destino: Andre
+Valor para transferir: 1200
+Transferencia de R$1200.00 para Andre realizada com sucesso. Saldo atual: R$7050.00
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+2
+Nome de usuario de destino: Carlos
+Valor para transferir: 860
+Transferencia de R$860.00 para Carlos realizada com sucesso. Saldo atual: R$6190.00
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+5
+Desconectando...
+(1) - Conectar
+(2) - Registrar
+(3) - Sair
+1
+Nome de usuario: Andre
+Senha: 123
+Bem-vindo Andre!
+Qual operacao vai realizar hoje?
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+4
+
+--- EXTRATO DE TRANSACOES DE Andre ---
+Saldo Atual: R$6550.00
+----------------------------------
+[DEBITO] Transferencia enviada para Pedro: -R$250.00
+[DEBITO] Transferencia enviada para Carlos: -R$400.00
+[CREDITO] Transferencia recebida de Pedro: +R$1200.00
+----------------------------------
+
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+5
+Desconectando...
+(1) - Conectar
+(2) - Registrar
+(3) - Sair
+1
+Nome de usuario: Carlos
+Senha: 456
+Bem-vindo Carlos!
+Qual operacao vai realizar hoje?
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+4
+
+--- EXTRATO DE TRANSACOES DE Carlos ---
+Saldo Atual: R$1260.00
+----------------------------------
+[CREDITO] Transferencia recebida de Andre: +R$400.00
+[CREDITO] Transferencia recebida de Pedro: +R$860.00
+----------------------------------
+
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+1
+Valor para depositar: 780
+Deposito de R$780.00 realizado. Saldo atual: R$2040.00
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+2
+Nome de usuario de destino: Andre
+Valor para transferir: 85.90
+Transferencia de R$85.90 para Andre realizada com sucesso. Saldo atual: R$1954.10
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+4
+
+--- EXTRATO DE TRANSACOES DE Carlos ---
+Saldo Atual: R$1954.10
+----------------------------------
+[CREDITO] Transferencia recebida de Andre: +R$400.00
+[CREDITO] Transferencia recebida de Pedro: +R$860.00
+[DEBITO] Transferencia enviada para Andre: -R$85.90
+----------------------------------
+
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+5
+Desconectando...
+(1) - Conectar
+(2) - Registrar
+(3) - Sair
+1
+Nome de usuario: Pedro
+Senha: 123
+Bem-vindo Pedro!
+Qual operacao vai realizar hoje?
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+4
+
+--- EXTRATO DE TRANSACOES DE Pedro ---
+Saldo Atual: R$6190.00
+----------------------------------
+[CREDITO] Transferencia recebida de Andre: +R$250.00
+[DEBITO] Transferencia enviada para Andre: -R$1200.00
+[DEBITO] Transferencia enviada para Carlos: -R$860.00
+----------------------------------
+
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+5
+Desconectando...
+(1) - Conectar
+(2) - Registrar
+(3) - Sair
+1
+Nome de usuario: Andre
+Senha: 123
+Bem-vindo Andre!
+Qual operacao vai realizar hoje?
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
+4
+
+--- EXTRATO DE TRANSACOES DE Andre ---
+Saldo Atual: R$6635.90
+----------------------------------
+[DEBITO] Transferencia enviada para Pedro: -R$250.00
+[DEBITO] Transferencia enviada para Carlos: -R$400.00
+[CREDITO] Transferencia recebida de Pedro: +R$1200.00
+[CREDITO] Transferencia recebida de Carlos: +R$85.90
+----------------------------------
+
+(1) - Depositar
+(2) - Transferir
+(3) - Sacar
+(4) - Ver Extrato
+(5) - Desconectar
